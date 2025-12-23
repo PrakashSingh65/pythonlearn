@@ -1,7 +1,8 @@
-name = "prakash"
-age =26
-price=55.00
+age=45
+old=False
+a=None
 
-print("my name is :",name)
-print("my age is:",age)
-print(price)
+
+print(type(age))
+print(type(old))
+print(type(a))
