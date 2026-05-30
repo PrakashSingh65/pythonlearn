@@ -1,6 +1,8 @@
-a = "prakash"
+a = "55.2"
 
-t = type(a) 
+b = float(a) #a but the type should be floot
+
+t = type(b) 
 # class <int>
 
 print(t)
