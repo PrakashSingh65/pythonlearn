@@ -7,4 +7,5 @@ print(frinds)
 
 l1 =[1,25,65,4,6,33]
 l1.sort()
-print(11)
+# l1.reverse()
+print(l1)
