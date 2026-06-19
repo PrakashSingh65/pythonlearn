@@ -5,5 +5,5 @@ no =a.count(45)
 print(no)
 
 
-i = a.index(45)
+i = a.index(2345)
 print(i)
