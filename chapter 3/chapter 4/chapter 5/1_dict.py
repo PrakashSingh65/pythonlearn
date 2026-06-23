@@ -4,4 +4,5 @@ marks = {
     "nakul" : 34,
 }
 
-print(marks,type(marks))
+# print(marks,type(marks))
+print(marks["prakash"])
