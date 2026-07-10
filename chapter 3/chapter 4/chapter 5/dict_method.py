@@ -10,5 +10,8 @@ marks ={
 # print(marks.keys())
 # print(marks.values())
 
-marks.update({"prakash":97})
-print(marks)
+# marks.update({"prakash":97})
+# print(marks)
+
+print(marks.get("prakash2"))  #prints None
+print(marks["prakash2"])   #returns an error
