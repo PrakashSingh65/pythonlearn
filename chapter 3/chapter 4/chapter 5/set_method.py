@@ -4,3 +4,5 @@ print(s, type(s))
 
 s.add(4666)
 print(s, type(s))
+s.remove(45)
+print(s,type(s))
