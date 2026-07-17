@@ -1,10 +1,9 @@
-a = int(input("enter number 1: "))
-a = int(input("enter number 2: "))
-a = int(input("enter number 3: "))
-a = int(input("enter number 4: "))
-a = int(input("enter number 5: "))
+a1 = int(input("enter number 1: "))
+a2 = int(input("enter number 2: "))
+a3 = int(input("enter number 3: "))
+a4 = int(input("enter number 4: "))
 
-elif(a1>a2 and a1>a3 and a1>a4):
+if(a1>a2 and a1>a3 and a1>a4):
     print("Greatest number is a1:", a1)
 
 elif(a2>a1 and a2>a3 and a2>a4):
