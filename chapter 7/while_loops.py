@@ -1,5 +1,5 @@
 i = 1
 
-while(1<8):
+while(i<51):
     print(i)
     i +=1
