@@ -12,4 +12,4 @@ for i in t:
 # For Loop with Stings
 s = "prakash"
 for i in s:
-    print(i)    
+    print(i)   
