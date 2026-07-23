@@ -1,6 +1,15 @@
-a = 12
-b = 45
-c =56
+a = int(input("enter your number: "))
+b = int(input("enter your number: "))
+c = int(input("enter your number: "))
 
 average = (a+b+c)/3
+print(average)
+
+
+a = int(input("enter your number: "))
+b = int(input("enter your number: "))
+c = int(input("enter your number: "))
+
+
+average = (a + b + c)/3
 print(average)
