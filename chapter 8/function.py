@@ -25,3 +25,5 @@ def avg():
 
 average = (a + b + c)/3
 print(average)
+
+avg()
