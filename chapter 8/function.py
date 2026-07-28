@@ -23,7 +23,14 @@ def avg():
       c = int(input("enter your number: "))
 
 
-average = (a + b + c)/3
-print(average)
+      average = (a + b + c)/3
+      print(average)
 
 avg()
+print("thank you")
+avg()
+print("thank you")
+avg()
+print("thank you")
+avg()
+print("thank you")
